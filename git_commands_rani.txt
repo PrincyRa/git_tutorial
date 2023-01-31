@@ -2,3 +2,6 @@ Hello
 My name is bhavana.
 I am working on AYS and PQ project.
 I will push it in develop-bhavana branch
+
+QA Rani Kale
+I'm working on PIM project. 
