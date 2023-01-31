@@ -1,4 +1,0 @@
-Hello
-My name is Princy.
-I am working on AYS project.
-I will push it in develop-princy branch
